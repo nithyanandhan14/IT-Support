@@ -11,3 +11,6 @@ second day start with the code
       yum:
         name: "*"
         state: present
+
+
+Finall the git class is completed
